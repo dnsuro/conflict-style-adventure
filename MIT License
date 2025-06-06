@@ -1,0 +1,36 @@
+
+You can tweak the tone or add images/gifs once the app is live.
+
+---
+
+## ✅ 2. How to Push to GitHub (Step-by-Step)
+
+If you haven't used Git before, here’s a **basic guide using GitHub’s web interface**:
+
+### 📦 Option A: Upload via GitHub Website
+
+1. Go to https://github.com and **create a new repository**
+   - Name: `conflict-style-adventure`
+   - Description: _(optional)_
+   - Public or private — your choice
+
+2. After creating the repo:
+   - Click **“Add file” > “Upload files”**
+   - Upload:
+     - `conflict_adventure.py`
+     - `requirements.txt`
+     - `README.md` (the one above)
+
+3. Click **“Commit changes”**.
+
+Done! ✅ Now you’re ready to [deploy it on Streamlit Cloud](https://streamlit.io/cloud).
+
+---
+
+### 🤝 Want Me to Package It?
+
+If you'd prefer, I can generate a **ZIP file** with everything ready-to-upload (Python file, README, requirements.txt). Just say:
+
+> “Yes, send me the ZIP package.”
+
+Or let me know if you're using Git locally and want the CLI commands instead.
